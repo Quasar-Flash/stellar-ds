@@ -1,0 +1,9 @@
+
+> @stellar-ui/react@1.0.0 build
+> tsup src/index.tsx --format esm,cjs --dts --external react
+
+Cannot find src/index.tsx
+npm ERR! Lifecycle script `build` failed with error: 
+npm ERR! Error: command failed 
+npm ERR!   in workspace: @stellar-ui/react@1.0.0 
+npm ERR!   at location: /home/arthur/Projects/qflash/stellar-ui/packages/react 
