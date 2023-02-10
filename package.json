@@ -1,11 +1,11 @@
 {
-  "engines": {
-    "node": "16"
-  },
   "private": true,
   "workspaces": [
     "packages/*"
   ],
+  "engines": {
+    "node": "16"
+  },
   "scripts": {
     "dev": "turbo run dev --parallel",
     "build": "turbo run build",

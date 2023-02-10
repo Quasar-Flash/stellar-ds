@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, TextInput, TextInputProps } from '@stellar-ui/react'
+import { Box, TextInput, TextInputProps } from '@stellar-ds/react'
 
 export default {
   title: 'Form/Text Input',

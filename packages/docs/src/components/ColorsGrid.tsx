@@ -1,4 +1,4 @@
-import { colors } from '@stellar-ui/tokens'
+import { colors } from '@stellar-ds/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

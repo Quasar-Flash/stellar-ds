@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@stellar-ui/react'
+import { Heading, HeadingProps } from '@stellar-ds/react'
 
 export default {
   title: 'Typography/Heading',

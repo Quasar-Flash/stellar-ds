@@ -1,5 +1,5 @@
 {
-  "extends": "@stellar-ui/ts-config/base.json",
+  "extends": "@stellar-ds/ts-config/base.json",
   "include": [
     "src"
   ]

@@ -1,8 +1,7 @@
 {
-  "name": "@stellar-ui/eslint-config",
+  "name": "@stellar-ds/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
   "main": "index.js",
   "devDependencies": {
     "eslint": "^8.24.0"

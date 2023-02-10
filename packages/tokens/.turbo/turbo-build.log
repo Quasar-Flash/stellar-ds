@@ -1,5 +1,5 @@
 
-> @stellar-ui/tokens@1.0.0 build
+> @stellar-ds/tokens@1.0.0 build
 > tsup src/index.ts --format esm,cjs --dts
 
 CLI Building entry: src/index.ts
@@ -9,9 +9,9 @@ CLI Target: node14
 ESM Build start
 CJS Build start
 CJS dist/index.js 2.71 KB
-CJS ⚡️ Build success in 18ms
+CJS ⚡️ Build success in 17ms
 ESM dist/index.mjs 1.57 KB
-ESM ⚡️ Build success in 20ms
+ESM ⚡️ Build success in 17ms
 DTS Build start
-DTS ⚡️ Build success in 1032ms
+DTS ⚡️ Build success in 977ms
 DTS dist/index.d.ts 1.48 KB

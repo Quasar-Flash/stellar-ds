@@ -1,5 +1,5 @@
 {
-  "name": "@stellar-ui/tokens",
+  "name": "@stellar-ds/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@stellar-ui/ts-config": "*",
-    "@stellar-ui/eslint-config": "*",
+    "@stellar-ds/ts-config": "*",
+    "@stellar-ds/eslint-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }
