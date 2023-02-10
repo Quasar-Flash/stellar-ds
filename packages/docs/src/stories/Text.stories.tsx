@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@stellar-ui/react'
+import { Text, TextProps } from '@stellar-ds/react'
 
 export default {
   title: 'Typography/Text',

@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@stellar-ui/tokens'
+} from '@stellar-ds/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
